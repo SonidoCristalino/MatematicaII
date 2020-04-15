@@ -16,3 +16,5 @@ Lista de documentos:
 + Apuntes de la materia
 + Imagenes de los TPs
 
+Ingreso a Medios
+* [Zoom](https://zoom.us/j/832083140)
