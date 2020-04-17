@@ -17,4 +17,4 @@ Lista de documentos:
 + Imagenes de los TPs
 
 Ingreso a Medios:
-* [Zoom](https://zoom.us/j/832083140)
+* [Zoom](https://us02web.zoom.us/j/87037828817)
