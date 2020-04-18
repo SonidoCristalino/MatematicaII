@@ -1,4 +1,4 @@
-Matemática II:
+# Matemática II:
 --------------
 
 Los días de la materia lo que se va a hacer es consulta (lunes y jueves)
@@ -12,9 +12,10 @@ Modalidades para aprobar se tiene que hacer:
     Apuntes más completos, los ejercicios son más completos, pero no son largos.
 
     Apuntes: ejercicios y teoría.
-    Se irá avanzando en las cosas que sean importante de ese material que la idea sea que lo vayan viendo es que los alumnos. Se espera que los alumnos sea más autónomo.
+    Se irá avanzando en las cosas que sean importante de ese material que la idea sea que lo vayan viendo es que los alumnos. Se
+    espera que los alumnos sea más autónomo.
 
-    Para aprobar la materia:
+    # Para aprobar la materia:
                 7 trabajos entregados a tiempo. Se devuelve la corrección y se hará una muestra de cuál era la manera de resolverlos.
                 Para aprobar cada una de las entregas tienen que tener un porcentaje aprobados. Eso se va a ver en la devolución.
 
@@ -25,7 +26,8 @@ Modalidades para aprobar se tiene que hacer:
 
     ¡¡¡Vamos a tener que ir a final en alguna fecha!!!
 
-    Alumnos que figuraban en el SIU para entrar a una clase de ClassRoom, es un "aula virtual". Aplicación para chats y responder preguntas de una forma más copada.
+    Alumnos que figuraban en el SIU para entrar a una clase de ClassRoom, es un "aula virtual". Aplicación para chats y responder
+    preguntas de una forma más copada.
     Se invitaron sólo a los uqe son de gmail. Se pide un código para acceder a la clase.
 
     Las entregas de TP:
@@ -50,12 +52,7 @@ Modalidades para aprobar se tiene que hacer:
     Acciones a tomar:
         Bajarse el apunte de Unidad1.pdf
 
-
-*=============================================================================
-Apunte1:
-*=============================================================================
-* Descripcion
-*-----------------------------------------------------------------------------
+# Apunte1:
 
 Las componentes de un vector v = AB es el recorrido (en este caso de dos dimensiones) que se tiene que hacer para llegar de A a B. Siendo:
                 A = [-2,5]
@@ -68,20 +65,22 @@ Las componentes de un vector v = AB es el recorrido (en este caso de dos dimensi
                                     -4]
 
 
-Los vectores tienen una dirección, un sentido y una longitud. Ala dirección la podemos pensar como  la  línea  sobre  la  cual  se  apoya  el  vector.  Se  la  podría  describir  mediante  el  ángulo  que esta recta forma con el eje horizontal. El sentido indica hacia dónde apunta el vector (por eso al  representarlos  ubicamos  una  flecha  que  va  desde  el  punto  inicial  hasta  el  punto  final).  La longitud es un número, indicacuánto mide el vector.
+Los vectores tienen una dirección, un sentido y una longitud. Ala dirección la podemos pensar como  la  línea  sobre  la  cual  se
+apoya  el  vector.  Se  la  podría  describir  mediante  el  ángulo  que esta recta forma con el eje horizontal. El sentido indica
+hacia dónde apunta el vector (por eso al  representarlos  ubicamos  una  flecha  que  va  desde  el  punto  inicial  hasta  el
+punto  final).  La longitud es un número, indicacuánto mide el vector.
 
-La longitud del vector, se obtiene mediante el teorema de pitágoras. Esto es así porque un punto se puede representar en dos ejes, desplazamiento horizontal y desplazamiento vertical. La hipotenusa trasada entre esas dos rectas
+La longitud del vector, se obtiene mediante el teorema de pitágoras. Esto es así porque un punto se puede representar en dos ejes,
+desplazamiento horizontal y desplazamiento vertical. La hipotenusa trasada entre esas dos rectas
 
-
-
-ejercicio 3)
-                El vector no está en la dirección del paralelogramo, ya que son todos aplastados, ya que son multiplos entre ellos. Y el que se quiere ver si es múltiplo, NO está dentro del cuadrante del paralelogramo.
+# ejercicio 3)
+		El vector no está en la dirección del paralelogramo, ya que son todos aplastados, ya que son multiplos entre
+		ellos. Y el que se quiere ver si es múltiplo, NO está dentro del cuadrante del paralelogramo.
 
                 La ecuación no tiene solución. Ningún número multiplicado por 0 da 7.
 
-                El vector r es multiplo de u porque es el triple, y al otro componente o sea d que sea 0.
-                3, 0 y 1, -1 (hay infinitas, cuando se resuelve el sistema, en vez de llegar una contradicción como antes, se llega a una identidad)
-
+		El vector r es multiplo de u porque es el triple, y al otro componente o sea d que sea 0.  3, 0 y 1, -1 (hay
+		infinitas, cuando se resuelve el sistema, en vez de llegar una contradicción como antes, se llega a una identidad)
 
                 ¿Es cierto que todo vector se puede escribir como combinación de otro? NO
                     - Si son múltpliso sólo se podrá encontrar los que están dentro de la misma recta (por ser múltiplos, como el ejercicio 3.2.
@@ -93,7 +92,7 @@ ejercicio 3)
 Nos comunicamos a través del ClassRoom. NO por el campus.
 Es mejor el ClassRoom, tampoco por mail.
 
-De acá el jueves es:
+# De acá el jueves es:
 
     Leer: Producto punto
     Hacer los ejercicios hasta el 8 (página 10)

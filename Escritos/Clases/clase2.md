@@ -1,4 +1,4 @@
-En el ejercicio 5:
+# En el ejercicio 5:
 	Los dos vectores si no empiezan en el mismo lugar, no se puede medir el angulo entre ellos (u y w). Lo que se debe hacer
 	es trasladar alguno de los dos, sea u o w.
 	[Imagen sacada]
@@ -12,7 +12,7 @@ En el ejercicio 5:
 	Para hacer el ejercicio 8 se debe analizar implementando la ecuación de producto punto y este tiene que ser cero.
 
 
-Ejemplo de la figura 6.
+# Ejemplo de la figura 6.
 
 En el ejercicio de ejemplo donde hay una a, preguntando por el ejercicio de 120º lo que quiere plantear es si
 El de 120º tiene 2 soluciones parece.
@@ -23,12 +23,12 @@ Lo que no entendí es por qué
 
 Para cambiar el sentido, hay que multiplicar por un escalar negativo.
 
-Producto punto (operación entre dos vectores):
+# Producto punto (operación entre dos vectores):
 ---------------------------------------------
 	- Componente a componente (si es que se saben las componentes).
 	- Con las
 
-Producto Cruz o vectorial(el resultado es un vector):
+# Producto Cruz o vectorial(el resultado es un vector):
 ---------------------------------------------
 	Este nuevo producto es más restrictivo porque se usa para R3 solamente.
 	Dos vectores en el espacio, se hace entre dos y se da un tercer vector. Este vector cumple con determinadas
@@ -65,7 +65,7 @@ Producto Cruz o vectorial(el resultado es un vector):
 		producto punto.
 		producto cruz. Sólo para vectores de R3
 
-Ejercitación para el lunes:
+# Ejercitación para el lunes:
 --------------------------
 
 	Hacer hasta el ejercicio 14 y el lunes se empieza con planos.
