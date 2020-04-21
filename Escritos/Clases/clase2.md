@@ -67,7 +67,6 @@ Para cambiar el sentido, hay que multiplicar por un escalar negativo.
 
 # Ejercitación para el lunes:
 --------------------------
-
 	Hacer hasta el ejercicio 14 y el lunes se empieza con planos.
 
 	Ejercicio 11: Perpendicular a dos vectores dados = producto cruz.
