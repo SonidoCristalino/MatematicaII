@@ -24,6 +24,10 @@ Ejercicio 24.c)
 Ejercicio 24.b)
 	- La distancia entre A y c y b y c son las mismas.
 
+Para encontrar las Ecuaciones vistas hasta ahora:
+	https://www.fisicalab.com/tema/fundamentos-matematicos-cv/formulas
+	Entrar a cada una de los links para ver lo que significa a, b y c.
+
 # Superficies:
 Vértice de una parábola es cuando x = 0 ¿?
 
