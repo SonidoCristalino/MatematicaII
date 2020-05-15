@@ -31,14 +31,14 @@ Los días de la materia lo que se va a hacer es consulta (lunes y jueves)
     Alumnos que figuraban en el SIU para entrar a una clase de ClassRoom, es un "aula virtual". Aplicación para chats y responder
     preguntas de una forma más interactiva.  Se invitaron sólo a los que son de gmail. Se pide un código para acceder a la clase.
 
-    * Las entregas de TP:
-    ------------------
+* Las entregas de TP:
+---------------------
         - El formato puede ser en imagen, una foto de la hoja resuelta. Todo nítido.
         - Las entregas van a ser todas en el campus.
         - También se puede escribir en PDF.
 
-    * Canales de comunicación:
-    -----------------------
+* Canales de comunicación:
+--------------------------
         - Campus
         - Zoom
         - ClassRoom
@@ -57,6 +57,7 @@ Acciones a tomar:
 Bajarse el apunte de Unidad1.pdf
 
 # Apunte1:
+----------
 
 Las componentes de un vector v = AB es el recorrido (en este caso de dos dimensiones) que se tiene que hacer para llegar de A a B. Siendo:
                 A = [-2,5]
