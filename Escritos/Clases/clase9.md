@@ -69,11 +69,10 @@ Ejercicio 36:
 
 ## Segunda parte
 
-Definición de continuidad es lo mismo que para una variable.
-	- Se dice que un punto a,b hay continuidad cuando
-	- se puede evaluar,
-	- cuando existe el límite
-	- cuando los dos valores coinciden.
+Definición de continuidad es lo mismo que para una variable. Se dice que un punto a,b hay continuidad cuando:
+	- Se puede evaluar,
+	- Cuando existe el límite
+	- Cuando los dos valores coinciden.
 
 Continuas en su dominio.
 
@@ -84,17 +83,17 @@ La más difícil es acercarse por "Caminos":
 
 	- Es cuando no se puede salvar la indeterminación.
 	- En el plano, se acercaba por dos lados, por izquierda y por derecha. Ahora no se puede, ya que son infinitos los puntos,
-	  infinitos caminos, se pueden acercar cuaqluier curva que pase por el punto. La dificultad estriba en que no se pueden
+	  infinitos caminos, se pueden acercar cualquier curva que pase por el punto. La dificultad estriba en que no se pueden
 	  abarcar todas las posibilidades existentes. ¿Qué se hace?
-	  	- Una opción es proponer un camino particular (que pase por el punto que se quiera) que pase, y ver qué pasa con
+	  	* Una opción es proponer un camino particular (que pase por el punto que se quiera) que pase, y ver qué pasa con
 		  esa curva por ese punto. Si puede escribir la curva evaluado en el punto, entonces se puede utilizar esta
 		  función mediante la curva.
 
-En el ejemplo se ve que se modifica la y por x, se trata de ver de lo que se trata cuando se acerca por ese camino, por la recta
-y=x. Cuando se acerca, tiende a 2. Ahora lo que se hace es buscar por otro camino, si NO se acerca a 2, entonces se puede decir
+En el ejemplo se ve que se modifica la Y por X, se trata de ver de lo que se trata cuando se acerca por ese camino, por la recta
+Y=X. Cuando se acerca, tiende a 2. Ahora lo que se hace es buscar por otro camino, si NO se acerca a 2, entonces se puede decir
 que no existe. Acá si es concluyente, dos caminos son distintos entonces listo, TERMINO.
 
-EL problema es que si se eligen varias curvas que cumplen con el mismo resultado, eso NO significa que sea concluyente (está en el
+El problema es que si se eligen varias curvas que cumplen con el mismo resultado, eso NO significa que sea concluyente (está en el
 manual). En estos casos lo que se hace es establecer un radio al rededor del punto, y acercarse por TODOS Los puntos disminuyendo
 el radio [Se denomina COORDENADAS POLARES], lo que da con polares, ya es CONCLUYENTE.
 ¿Por qué no se arranca con polares? Se deja para el final porque si el límite no existe, es más fácil encontrarlo mediante por
